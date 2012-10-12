@@ -4,35 +4,29 @@ Just an organized list of all my presentations.
 
 ## Comming next!
 
-### II SouWebPel
-* When: September, 29
-* Where: Pelotas, RS - Brazil
-* Website: **Not available yet**
+### DevDay
+* When: October, 21
+* Where: Belo Horizonte, MG - Brazil
+* Website: [DevDay](http://devday.devisland.com/)
+* Lecture: O elo perdido: sincronizando apps offline com node.js
+* Lightning Talk: MongoDb no mundo real
 
-### RCuritiba
-* When: October, 12-15
-* Where: Curitiba, PR - Brazil
-* Website: [rcuritiba.com.br](http://rcuritiba.com.br/)
-
-### W3C Conference - Web.br 2012
-* When: October, 18-20
-* Where: São Paulo, SP - Brazil
-* Website: [conferenciaweb.w3c.br](http://conferenciaweb.w3c.br/)
-
-### Front in Maceió
-* When: October, 27
+### FrontinMaceio
+* When: October, 29
 * Where: Maceió, AL - Brazil
-* Website: [frontinmaceio.com.br](http://frontinmaceio.com.br/)
+* Website: [FrontinMaceio](http://frontinmaceio.com.br/)
 
-### Front in Sampa
+### FrontinSampa
 * When: November, 03
 * Where: São Paulo, SP - Brazil
-* Website: [frontinsampa.com.br](http://www.frontinsampa.com.br/)
+* Website: [FrontInSampa](http://frontinsampa.com.br/)
+* Organizer
 
-### Front in Londrina
-* When: December, 01
-* Where: Londrina, PR - Brazil
+### WordTalk
+* When: November, 10
+* Where: São Paulo, SP - Brazil
 * Website: **Not available yet**
+* Lecture:
 
 ## ~ 2012
 
