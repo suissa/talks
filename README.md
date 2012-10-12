@@ -31,10 +31,17 @@ Just an organized list of all my presentations.
 * Lecture: Advanced Queries
 
 ### PHP'n'Rio
-* When: November, 10
+* When: November, 10-12
 * Where: São Paulo, SP - Brazil
-* Website: **Not available yet**
-* Lecture: Advanced Queries
+* Website: [PHPnRio](http://www.phpnrio.com.br/)
+* Lecture: Neo4J com PHP
+
+### PHPConference
+* When: November, 10-12
+* Where: São Paulo, SP - Brazil
+* Website: [PHPConference](http://phpconference.com.br/)
+* Lecture: MongoDB com PHP
+* Workshop: MongoDB com PHP
 
 ## ~ 2012
 
