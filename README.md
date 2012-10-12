@@ -32,7 +32,7 @@ Just an organized list of all my presentations.
 
 ### PHP'n'Rio
 * When: November, 10-12
-* Where: São Paulo, SP - Brazil
+* Where: Rio de Janeiro, RJ - Brazil
 * Website: [PHPnRio](http://www.phpnrio.com.br/)
 * Lecture: Neo4J com PHP
 
