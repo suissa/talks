@@ -5,14 +5,14 @@ Just an organized list of all my presentations.
 ## Comming next!
 
 ### DevDay
-* When: October, 21
+* When: October, 20
 * Where: Belo Horizonte, MG - Brazil
 * Website: [DevDay](http://devday.devisland.com/)
 * Lecture: O elo perdido: sincronizando apps offline com node.js
 * Lightning Talk: MongoDb no mundo real
 
 ### FrontinMaceio
-* When: October, 29
+* When: October, 27
 * Where: Maceió, AL - Brazil
 * Website: [FrontinMaceio](http://frontinmaceio.com.br/)
 * Lecture: Javascript Moderno
@@ -25,7 +25,7 @@ Just an organized list of all my presentations.
 * Organizer
 
 ### WordTalk
-* When: November, 10
+* When: -
 * Where: São Paulo, SP - Brazil
 * Website: **Not available yet**
 * Lecture: Advanced Queries
@@ -37,7 +37,7 @@ Just an organized list of all my presentations.
 * Lecture: Neo4J com PHP
 
 ### PHPConference
-* When: November, 10-12
+* When: November, 29-02
 * Where: São Paulo, SP - Brazil
 * Website: [PHPConference](http://phpconference.com.br/)
 * Lecture: MongoDB com PHP
