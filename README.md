@@ -26,13 +26,13 @@ Just an organized list of all my presentations.
 * Website: [Software Livre - Seminario](http://fisl.org.br/14/papers_ng/public/fast_grid?event_id=3)
 
 ### The Developers Conference
-* Presentation: Be Mean
+* Presentation: Be MEAN
 * When: July, 10
 * Where: São Paulo, SP - Brazil
 * Website: [Software Livre - Seminario](http://www.thedevelopersconference.com.br/tdc/2013/saopaulo/trilha-html5-e-javascript#programacao)
 
 ### The Developers Conference
-* Presentation: Be Mean
+* Presentation: CSS Racional
 * When: July, 14
 * Where: São Paulo, SP - Brazil
 * Website: [Software Livre - Seminario](http://www.thedevelopersconference.com.br/tdc/2013/saopaulo/trilha-ux-front-end#programacao)
@@ -53,7 +53,7 @@ Just an organized list of all my presentations.
 * Where: Salvador, BA - Brazil
 
 ### FrontinBahia
-* Presentation: 
+* Presentation: Be MEAN
 * When: July, 27
 * Where: Salvador, BA - Brazil
 
