@@ -14,43 +14,48 @@ Just an organized list of all my presentations.
 * Website: [Instituto Doll - Workshop](http://institutodoll.com.br/treinamento/detalhes/24/nosql)
 
 ### SERPRO
-* Workshop: Palestra Be MEAN
+* Presentation: Palestra Be MEAN
 * When: July, 1
 * Where: São Paulo, SP - Brazil
 * Website: [Software Livre - Seminario](https://www.softwarelivre.gov.br/eventos/seminario-tecnologico-padroes-abertos-para-web)
 
 ### FISL
-* Workshop: Palestra CSS Racional
+* Presentation: Palestra CSS Racional
 * When: July, 6
 * Where: Porto Alegre, SP - Brazil
 * Website: [Software Livre - Seminario](http://fisl.org.br/14/papers_ng/public/fast_grid?event_id=3)
 
 ### The Developers Conference
-* Workshop: Be Mean
+* Presentation: Be Mean
 * When: July, 10
 * Where: São Paulo, SP - Brazil
 * Website: [Software Livre - Seminario](http://www.thedevelopersconference.com.br/tdc/2013/saopaulo/trilha-html5-e-javascript#programacao)
 
 ### The Developers Conference
-* Workshop: Be Mean
+* Presentation: Be Mean
 * When: July, 14
 * Where: São Paulo, SP - Brazil
 * Website: [Software Livre - Seminario](http://www.thedevelopersconference.com.br/tdc/2013/saopaulo/trilha-ux-front-end#programacao)
 
+### FrontinFortaleza
+* Presentation: 
+* When: July, 20
+* Where: Fortaleza, CE - Brazil
 
-### SERPRO
-* Workshop: Palestra CSS Racional
-* When: July, 10
-* Where: São Paulo, SP - Brazil
-* Website: [Software Livre - Seminario](https://www.softwarelivre.gov.br/eventos/seminario-tecnologico-padroes-abertos-para-web)
+### FrontinFortaleza
+* Workshop: Javascript Básico
+* When: July, 21
+* Where: Fortaleza, CE - Brazil
 
-10/Jul - Palestra Be MEAN - TDC - São Paulo - SP
-11/Jul - Palestra Pensando em arquiteturas híbridas p/ NoSQL - TDC - São Paulo - SP
-13/Jul - Djing - Loopping - Ponta Grossa - PR
-14/Jul - Palestra - CSS Racional - São Paulo - SP ( cancelei :( )
-20, 21/Jul - Palestra/Curso - FrontinFortaleza - Fortaleza - CE
-21 a 26/Jul - Curso Criando aplicativos inteiros com Javascript - FrontinBahia - Salvador - BA
+### FrontinBahia
+* Workshop: Criando aplicações apenas com Javascript
+* When: July, 22, 23, 24, 25, 26
+* Where: Salvador, BA - Brazil
 
+### FrontinBahia
+* Presentation: 
+* When: July, 27
+* Where: Salvador, BA - Brazil
 
 ## ~ 2012
 
